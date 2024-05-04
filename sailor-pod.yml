@@ -8,5 +8,5 @@ spec:
       image: raghravi94/sailor:1.0
       ports:
         - name: tomcatport
-          containerPort: 8080
+          containerPort: 80
           protocol: TCP
